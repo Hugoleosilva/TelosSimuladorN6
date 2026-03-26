@@ -36,7 +36,7 @@ A) Um objeto específico na memória
 C) Um tipo de variável  
 D) Um método especial  
 
-Explicação: Uma classe é um modelo (ou molde) usado para criar objetos. Ela define quais atributos (dados) e métodos (comportamentos) esses objetos terão.
+Explicação: **B.** Uma classe é um modelo (ou molde) usado para criar objetos. Ela define quais atributos (dados) e métodos (comportamentos) esses objetos terão.
 
 ---
 
